@@ -60,7 +60,7 @@ for i, pdf_file in enumerate(pdf_files):
 
     # Cuenta la frecuencia de las palabras y sus sinónimos/relacionadas
     word_freq = Counter(words + related_words)
-    ################## DESCOMENTAR SIGUIENTE LINEA PARA INCLUIR LOS SINONIMOS #####################
+    ################## DESCOMENTAR SIGUIENTE LINEA PARA NO INCLUIR LOS SINONIMOS ##################
     #word_freq = Counter(words)
     ###############################################################################################
 
