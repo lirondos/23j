@@ -40,7 +40,7 @@ for i, pdf_file in enumerate(pdf_files):
     tokens = word_tokenize(text)
 
     # Elimina las palabras vacías y las stopwords
-    exclude_words = ['programa', 'así']
+    exclude_words = ['programa', 'así', 'julio', 'madrid']
     stop_words = set(stopwords.words('spanish'))
     stop_words.update(exclude_words)
     words = [word.lower() for word in tokens if word.isalpha() and word.lower() not in stop_words]
