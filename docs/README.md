@@ -3,11 +3,11 @@ Visualizaciones comparando la frecuencia de palabras entre los programas políti
 
 ## Visualizaciones
 - [PP vs PSOE](https://lirondos.github.io/23j/comparaciones/PPvsPSOE.html).
-- [PP vs Sumar](https://lirondos.github.io/23j/comparaciones/PPvsSumar.html).
-- [PP vs Vox](https://lirondos.github.io/23j/comparaciones/PPvsVox.html).
-- [PSOE vs Sumar](https://lirondos.github.io/23j/comparaciones/PSOEvsSumar.html).
-- [PSOE vs Vox](https://lirondos.github.io/23j/comparaciones/PSOEvsVox.html).
-- [Sumar vs Vox](https://lirondos.github.io/23j/comparaciones/SumarvsVox.html).
+- [PP vs Sumar](https://lirondos.github.io/23j/comparaciones/PPvsSUMAR.html).
+- [PP vs Vox](https://lirondos.github.io/23j/comparaciones/PPvsVOX.html).
+- [PSOE vs Sumar](https://lirondos.github.io/23j/comparaciones/PSOEvsSUMAR.html).
+- [PSOE vs Vox](https://lirondos.github.io/23j/comparaciones/PSOEvsVOX.html).
+- [Sumar vs Vox](https://lirondos.github.io/23j/comparaciones/SUMARvsVOX.html).
 
 
 ## ¿Cómo se lee cada gráfica?
