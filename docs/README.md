@@ -2,18 +2,18 @@
 Visualizaciones comparando la frecuencia de palabras entre los programas políticos de PSOE, PP, Sumar y Vox  las elecciones generales del 23J.
 
 ## Visualizaciones
-- [PP vs PSOE](https://github.com/lirondos/23j/tree/main/docs/comparaciones/PPvsPSOE.html).
-- [PP vs Sumar](https://github.com/lirondos/23j/tree/main/docs/comparaciones/PPvsSumar.html).
-- [PP vs Vox](https://github.com/lirondos/23j/tree/main/docs/comparaciones/PPvsVox.html).
-- [PSOE vs Sumar](https://github.com/lirondos/23j/tree/main/docs/comparaciones/PSOEvsSumar.html).
-- [PSOE vs Vox](https://github.com/lirondos/23j/tree/main/docs/comparaciones/PSOEvsVox.html).
-- [Sumar vs Vox](https://github.com/lirondos/23j/tree/main/docs/comparaciones/SumarvsVox.html).
+- [PP vs PSOE](https://lirondos.github.io/23j/comparaciones/PPvsPSOE.html).
+- [PP vs Sumar](https://lirondos.github.io/23j/comparaciones/PPvsSumar.html).
+- [PP vs Vox](https://lirondos.github.io/23j/comparaciones/PPvsVox.html).
+- [PSOE vs Sumar](https://lirondos.github.io/23j/comparaciones/PSOEvsSumar.html).
+- [PSOE vs Vox](https://lirondos.github.io/23j/comparaciones/PSOEvsVox.html).
+- [Sumar vs Vox](https://lirondos.github.io/23j/comparaciones/SumarvsVox.html).
 
 
 ## ¿Cómo se lee cada gráfica?
-Cada una de las gráficas compara el léxico de dos programas electorales: PSOE vs PP, PSOE vs Vox, PSOE vs Sumar, PP vs Vox, PP vs Sumar, Sumar vs VOX. 
+Cada una de las gráficas compara el léxico de dos programas electorales: PSOE vs PP, PSOE vs Vox, PSOE vs Sumar, PP vs Vox, PP vs Sumar, Sumar vs Vox. 
 
-Los ejes x e y de la gráfica reprensentan cada uno de los dos grupos de la comparación. Por ejemplo, cojamos la gráfica de que enfrenta [el programa de Sumar y el programa de VOX](https://lirondos.github.io/discursos-de-navidad/viz/dictadura.html). El eje y representa aquellas palabras y términos que son más o menos frecuentes en el programa de Sumar, mientras que el eje x representa aquellas palabras y términos que son más o menos frecuentes en el programa de VOX. Las palabras aparecen por tanto ubicadas en el plano según lo frecuentes o infrecuentes que sean en ambos programas. Las palabras muy frecuentes Sumar pero poco habituales en VOX estarán situadas hacia la esquina superior izquierda (valores altos para el eje y, valores bajos en el eje x: _personas trabajadoras_, _participación_, _sostenible_). Las palabras habituales en Vox pero poco frecuentes en Sumar estarán localizadas hacia la esquina inferior derecha (valores altos para el eje x, valores bajos para el eje y: _iberosfera_, _territorio nacional_, _sánchez_). Aquellas palabras que tengan frecuencias parecidas tanto en la dictadura como en la democracia estarán colocadas hacia la diagonal de la gráfica. 
+Los ejes x e y de la gráfica reprensentan cada uno de los dos grupos de la comparación. Por ejemplo, cojamos la gráfica de que enfrenta [el programa de Sumar y el programa de VOX](https://lirondos.github.io/23j/comparaciones/SumarvsVox)). El eje y representa aquellas palabras y términos que son más o menos frecuentes en el programa de Sumar, mientras que el eje x representa aquellas palabras y términos que son más o menos frecuentes en el programa de Vox. Las palabras aparecen por tanto ubicadas en el plano según lo frecuentes o infrecuentes que sean en ambos programas. Las palabras muy frecuentes Sumar pero poco habituales en VOX estarán situadas hacia la esquina superior izquierda (valores altos para el eje y, valores bajos en el eje x: _personas trabajadoras_, _participación_, _sostenible_). Las palabras habituales en Vox pero poco frecuentes en Sumar estarán localizadas hacia la esquina inferior derecha (valores altos para el eje x, valores bajos para el eje y: _iberosfera_, _territorio nacional_, _sánchez_). Aquellas palabras que tengan frecuencias parecidas tanto en la dictadura como en la democracia estarán colocadas hacia la diagonal de la gráfica. 
 
 Si pinchamos en las palabras de la gráfica nos aparecerán los contextos en los que ha aparecido la palabra en cuestión y las diferencias de frecuencia entre un programa y otro. 
 
